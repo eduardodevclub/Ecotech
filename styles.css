@@ -169,6 +169,6 @@ h2 {
     }
 
     .menu.ativo {
-        max-height: 200px;
+        max-height: 0px;
     }
 }
